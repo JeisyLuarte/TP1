@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> TRABAJO PRÁCTICO 1</title>
+	</head>
+
+	<body>
+		<header>
+		</header>
+		<section>
+			<section>
+				<img src="imagen.jpg" />
+				<h1> Some text </h1>
+				<p> A paragraph of text with on
+				 A second row of text with a </p>
+			</section>
+			<section>
+				<img src="imagen.jpg" />
+				<h1> Some text </h1>
+				<p> A paragraph of text with on
+	 			A second row of text with a </p>
+			</section>
+			<section>
+				<img src="imagen.jpg" />
+				<h1> Some text </h1>
+				<p> A paragraph of text with on
+				 A second row of text with a </p>
+			</section>
+			<section>
+				<img src="imagen.jpg" />
+				<h1> Some text </h1>
+				<p> A paragraph of text with on
+			 	A second row of text with a </p>
+			</section>
+		</section>
+		<article>
+			<h1> A subtitle	</h1>
+			<p> some text some text some text </p>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+			<section>
+				<img src="imagen.jpg" />
+			</section>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+			<section>
+				<h3> Some text </h3>
+				<p> asdasd </p>
+			</section>
+		</article>
+		<article>
+			<h3> A Subtitle </3>
+			<p> Some text </p>
+			<section>
+				<h6> some text </h6>
+				<h1> $95 </h1>
+				<p> some text 1 
+				some text 1
+				some text 1 </p>
+				<a href=http://www.button.cl"><img src="button.jpg" /></a>
+			</section>
+			<section>
+				<h6> some text </h6>
+				<h1> $95 </h1>
+				<p> some text 1 
+				some text 1
+				some text 1 </p>
+				<a href=http://www.button.cl"><img src="button.jpg" /></a>
+			</section>
+			<section>
+				<h6> some text </h6>
+				<h1> $95 </h1>
+				<p> some text 1 
+				some text 1
+				some text 1 </p>
+				<a href=http://www.button.cl"><img src="button.jpg" /></a>
+			</section>
+			<section>
+				<h6> some text </h6>
+				<h1> $95 </h1>
+				<p> some text 1 
+				some text 1
+				some text 1 </p>
+				<a href=http://www.button.cl"><img src="button.jpg" /></a>
+			</section>
+			<section>
+				Hosting use 500,000 happy customers. Want to see services?
+			</section>
+			<section>
+				<footer> 
+					<section>
+						<p> Some text </p>
+					</section>
+					<section>
+						<p> Home </p>
+					</section>
+					<section>
+						<img src="icon.jpg">
+					</section>
+				</footer>
+			</section>
+	</body>
+</html>
